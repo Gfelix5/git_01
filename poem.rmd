@@ -28,4 +28,12 @@ And the mome raths outgrabe.
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 ## Last Verse
-<!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In numbers' realm, where patterns reside,  
+Statistical math takes us on a wondrous ride.  
+Probability unfolds its mystical charm,  
+Unveiling secrets, a statistical alarm.  
+
+Regression lines, gracefully they sway,  
+Mapping trends, illuminating the way.  
+From scatterplots to correlation's embrace, 
+Statistical math paints the data's grace.  
