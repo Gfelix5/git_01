@@ -14,7 +14,12 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+’Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+
+“Beware the Jabberwock, my son!  
 
 ## Second Verse
 Two roads diverged in a yellow wood,  
@@ -28,4 +33,12 @@ To where it bent in the undergrowth;
 Shining with all his might:  
 
 ## Last Verse
-<!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In numbers' realm, where patterns reside,  
+Statistical math takes us on a wondrous ride.  
+Probability unfolds its mystical charm,  
+Unveiling secrets, a statistical alarm.  
+
+Regression lines, gracefully they sway,  
+Mapping trends, illuminating the way.  
+From scatterplots to correlation's embrace, 
+Statistical math paints the data's grace.  
